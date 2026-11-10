@@ -4,7 +4,7 @@ Projeto de hardware (esquemático e layout da PCB) do IncubaSense 2, feito no Ea
 
 ## Arquivos
 
-- `ProPrj_IncubaSense_2_2026-11-10.epro`: projeto completo, para abrir no EasyEDA Pro (Arquivo > Abrir).
+- `IncubaSense2.epro`: projeto completo, para abrir no EasyEDA Pro (Arquivo > Abrir).
 
 ## Projetos relacionados
 
